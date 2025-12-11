@@ -3,7 +3,7 @@ name: Deploy to Elastic Beanstalk
 on:
   push:
     branches:
-      - main   # Deploy when pushing to main branch
+      - main
 
 jobs:
   deploy:
@@ -18,15 +18,12 @@ jobs:
         with:
           python-version: "3.10"
 
-      # Install AWS CLI v2
       - name: Install AWS CLI
         run: |
           curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
           unzip awscliv2.zip
           sudo ./aws/install --update
-          aws --version
 
-      # Install EB CLI (this FIXES the error)
       - name: Install EB CLI
         run: pip install awsebcli
 
@@ -41,10 +38,15 @@ jobs:
         run: |
           zip -r deploy.zip . -x "*.git*" "__pycache__/*"
 
+      - name: Initialize EB environment (non-interactive)
+        run: |
+          eb init pdf-kg-backend \
+            --region us-east-1 \
+            --platform "Python 3.11" \
+            --source . \
+            --no-validate
+
       - name: Deploy to Elastic Beanstalk
         run: |
-          eb init pdf-kg-backend --region us-east-1 --platform python-3.8 --source
           eb use Pdf-kg-backend-env
-          eb deploy
-
-          
+          eb deploy --staged
