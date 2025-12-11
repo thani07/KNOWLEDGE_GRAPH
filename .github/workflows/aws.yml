@@ -39,12 +39,12 @@ jobs:
           zip -r deploy.zip . -x "*.git*" "__pycache__/*"
 
       - name: Initialize EB environment (non-interactive)
+        env:
+          AWS_EB_INIT_NO_INTERACTIVE: 1
         run: |
           eb init pdf-kg-backend \
             --region us-east-1 \
-            --platform "Python 3.11" \
-            --source . \
-            --no-validate
+            --platform "Python 3.11"
 
       - name: Deploy to Elastic Beanstalk
         run: |
