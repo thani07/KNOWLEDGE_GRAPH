@@ -1,0 +1,345 @@
+2025-11-27 17:01:02,941 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:03:21,600 [INFO] kg-app - PDF uploaded and saved to: storage/uploads\a52e5550-7f9a-4496-91ee-6e7529f463f8_employee_policy.pdf
+2025-11-27 17:05:10,138 [INFO] kg-app - PDF uploaded and saved to: storage/uploads\5710fe94-d70e-43de-bf2c-bed3b03b3c3a_company_policy_detailed.pdf
+2025-11-27 17:05:10,541 [INFO] kg-app - Total chunks: 2
+2025-11-27 17:05:10,541 [INFO] kg-app - Processing chunk 1/2
+2025-11-27 17:05:10,545 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:05:16,276 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:05:16,356 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:05:16,360 [INFO] kg-app - Processing chunk 2/2
+2025-11-27 17:05:16,365 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:05:20,254 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:05:20,260 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:05:31,127 [INFO] kg-app - Saved 17 entities and 16 relationships to AuraDB.
+2025-11-27 17:12:28,074 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:17:46,597 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:25:09,323 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:26:29,726 [INFO] kg-app - PDF uploaded and saved to: storage/uploads\0fc8830d-6491-4fe1-9849-6f73a57b581a_14Nov2022150814_352.pdf
+2025-11-27 17:26:35,098 [INFO] kg-app - Total chunks: 27
+2025-11-27 17:26:35,098 [INFO] kg-app - Processing chunk 1/27
+2025-11-27 17:26:35,099 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:26:38,608 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:26:38,641 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:26:38,642 [INFO] kg-app - Processing chunk 2/27
+2025-11-27 17:26:38,642 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:26:42,460 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:26:42,465 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:26:42,467 [INFO] kg-app - Processing chunk 3/27
+2025-11-27 17:26:42,468 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:26:45,181 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:26:45,187 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:26:45,188 [INFO] kg-app - Processing chunk 4/27
+2025-11-27 17:26:45,191 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:26:47,487 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:26:47,490 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:26:47,491 [INFO] kg-app - Processing chunk 5/27
+2025-11-27 17:26:47,492 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:26:50,422 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:26:50,427 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:26:50,429 [INFO] kg-app - Processing chunk 6/27
+2025-11-27 17:26:50,431 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:26:53,702 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:26:53,706 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:26:53,708 [INFO] kg-app - Processing chunk 7/27
+2025-11-27 17:26:53,709 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:26:57,325 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:26:57,326 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:26:57,327 [INFO] kg-app - Processing chunk 8/27
+2025-11-27 17:26:57,328 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:02,736 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:02,739 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:02,739 [INFO] kg-app - Processing chunk 9/27
+2025-11-27 17:27:02,740 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:07,754 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:07,760 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:07,762 [INFO] kg-app - Processing chunk 10/27
+2025-11-27 17:27:07,766 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:12,323 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:12,326 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:12,326 [INFO] kg-app - Processing chunk 11/27
+2025-11-27 17:27:12,327 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:20,640 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:20,644 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:20,646 [INFO] kg-app - Processing chunk 12/27
+2025-11-27 17:27:20,647 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:24,442 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:24,445 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:24,447 [INFO] kg-app - Processing chunk 13/27
+2025-11-27 17:27:24,448 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:29,400 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:29,410 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:29,412 [INFO] kg-app - Processing chunk 14/27
+2025-11-27 17:27:29,416 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:31,915 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:31,919 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:31,920 [INFO] kg-app - Processing chunk 15/27
+2025-11-27 17:27:31,920 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:38,280 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:38,282 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:38,282 [INFO] kg-app - Processing chunk 16/27
+2025-11-27 17:27:38,283 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:41,840 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:41,847 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:41,849 [INFO] kg-app - Processing chunk 17/27
+2025-11-27 17:27:41,853 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:45,974 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:45,976 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:45,976 [INFO] kg-app - Processing chunk 18/27
+2025-11-27 17:27:45,978 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:49,474 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:49,476 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:49,476 [INFO] kg-app - Processing chunk 19/27
+2025-11-27 17:27:49,477 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:51,508 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:51,512 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:51,514 [INFO] kg-app - Processing chunk 20/27
+2025-11-27 17:27:51,517 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:54,418 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:54,419 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:54,420 [INFO] kg-app - Processing chunk 21/27
+2025-11-27 17:27:54,422 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:27:57,840 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:27:57,845 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:27:57,847 [INFO] kg-app - Processing chunk 22/27
+2025-11-27 17:27:57,850 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:28:00,599 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:28:00,604 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:28:00,605 [INFO] kg-app - Processing chunk 23/27
+2025-11-27 17:28:00,610 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:28:03,256 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:28:03,261 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:28:03,264 [INFO] kg-app - Processing chunk 24/27
+2025-11-27 17:28:03,268 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:28:05,675 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:28:05,680 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:28:05,682 [INFO] kg-app - Processing chunk 25/27
+2025-11-27 17:28:05,686 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:28:08,170 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:28:08,174 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:28:08,176 [INFO] kg-app - Processing chunk 26/27
+2025-11-27 17:28:08,179 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:28:10,752 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:28:10,758 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:28:10,758 [INFO] kg-app - Processing chunk 27/27
+2025-11-27 17:28:10,759 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:28:13,506 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:28:13,511 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:28:15,447 [INFO] kg-app - Entity ID Deduplication Map: {'E1': 'E1_27', 'E2': 'E2_27', 'E3': 'E3_27', 'E4': 'E4_27', 'E5': 'E5_22', 'E6': 'E6_11', 'E7': 'E7_4', 'E8': 'E8_3', 'E9': 'E9_1', 'E10': 'E10_1', 'E11': 'E11_1', 'E12': 'E12_1'}
+2025-11-27 17:29:31,642 [INFO] kg-app - Saved 152 entities & 115 relationships
+2025-11-27 17:39:18,255 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:39:30,551 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:41:09,441 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:41:34,523 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:43:28,599 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 17:45:03,279 [INFO] kg-app - PDF uploaded and saved to: storage/uploads\619515d7-5f39-442f-9c23-7293fc538b4d_company_policy_detailed.pdf
+2025-11-27 17:45:03,491 [INFO] kg-app - Total chunks: 2
+2025-11-27 17:45:03,491 [INFO] kg-app - Processing chunk 1/2
+2025-11-27 17:45:03,492 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:45:08,424 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:45:08,440 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:45:08,441 [INFO] kg-app - Processing chunk 2/2
+2025-11-27 17:45:08,442 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 17:45:12,270 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:45:12,275 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 17:45:12,906 [INFO] kg-app - Entity ID Deduplication Map: {'E1': 'E1_2', 'E2': 'E2_2', 'E3': 'E3_2', 'E4': 'E4_2', 'E5': 'E5_2', 'E6': 'E6_2', 'E7': 'E7_2'}
+2025-11-27 17:45:21,028 [INFO] kg-app - Saved 14 entities & 15 relationships
+2025-11-27 17:46:31,863 [INFO] kg-app - Loaded 166 entities from Neo4j for semantic linking
+2025-11-27 17:46:32,393 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:32,394 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions, indicating they refer to distinct concepts. 'Admin' relates to a role responsible for security procedures, while 'Termination & Separation' refers to policies on employee termination and separation.
+2025-11-27 17:46:32,720 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:32,726 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions, with Entity 1 specifically referring to 'Asset Management' and Entity 2 referring to a more general 'Management' with a focus on handling grievances.
+2025-11-27 17:46:33,153 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:33,155 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions that do not match, indicating they refer to different concepts.
+2025-11-27 17:46:33,423 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:33,426 [INFO] kg-app - LLM match decision: False -> Entity 1 describes a general individual who works for an organization, while Entity 2 specifically refers to a full-time employee under a company contract, implying a more specific employment arrangement.
+2025-11-27 17:46:33,672 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:33,674 [INFO] kg-app - LLM match decision: False -> Different descriptions and contexts suggest different concepts, despite sharing the same name 'Employee'.
+2025-11-27 17:46:33,936 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:33,938 [INFO] kg-app - LLM match decision: False -> Entity 1 has a broader definition including full-time, part-time, temporary employees, and consultants, while Entity 2 specifically refers to a full-time employee under a company contract, excluding other types of employees.
+2025-11-27 17:46:34,138 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:34,145 [INFO] kg-app - LLM match decision: False -> The descriptions imply different scopes, one general and the other specific to full-time under contract.
+2025-11-27 17:46:34,399 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:34,400 [INFO] kg-app - LLM match decision: False -> Entity 1 refers to employees in general, while Entity 2 specifically refers to a full-time employee under a company contract, implying a difference in scope and specificity.
+2025-11-27 17:46:34,872 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:34,874 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions that do not relate to the same concept.
+2025-11-27 17:46:35,256 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:35,258 [INFO] kg-app - LLM match decision: True -> Both entities have the same name 'HR' and their descriptions relate to human resources functions, indicating they refer to the same real-world concept.
+2025-11-27 17:46:35,404 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Statement.CartesianProduct} {category: PERFORMANCE} {title: This query builds a cartesian product between disconnected patterns.} {description: If a part of a query contains multiple disconnected patterns, this will build a cartesian product between all those parts. This may produce a large amount of data and slow down query processing. While occasionally intended, it may often be possible to reformulate the query that avoids the use of this cross product, perhaps by adding a relationship between the different parts or by using OPTIONAL MATCH (identifier is: (b))} {position: line: 2, column: 17, offset: 17} for query: "\n                MATCH (a:Entity {uid: $uid1}), (b:Entity {uid: $uid2})\n                MERGE (a)-[r:SAME_AS {method: 'semantic'}]->(b)\n                "
+2025-11-27 17:46:35,747 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:35,751 [INFO] kg-app - LLM match decision: True -> Both entities are referred to as 'HR' and relate to human resources functions within an organization, indicating they likely represent the same department despite slight differences in description.
+2025-11-27 17:46:35,850 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Statement.CartesianProduct} {category: PERFORMANCE} {title: This query builds a cartesian product between disconnected patterns.} {description: If a part of a query contains multiple disconnected patterns, this will build a cartesian product between all those parts. This may produce a large amount of data and slow down query processing. While occasionally intended, it may often be possible to reformulate the query that avoids the use of this cross product, perhaps by adding a relationship between the different parts or by using OPTIONAL MATCH (identifier is: (b))} {position: line: 2, column: 17, offset: 17} for query: "\n                MATCH (a:Entity {uid: $uid1}), (b:Entity {uid: $uid2})\n                MERGE (a)-[r:SAME_AS {method: 'semantic'}]->(b)\n                "
+2025-11-27 17:46:36,290 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:36,291 [INFO] kg-app - LLM match decision: False -> The entities have generic descriptions and names, but there is no specific information linking them to the same real-world concept. 'KTPL' and 'Company' are different names, and their descriptions, while similar, do not provide enough context to confirm they are the same.
+2025-11-27 17:46:36,535 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:36,539 [INFO] kg-app - LLM match decision: False -> Entity 1 refers to a specific organization named 'Kryptos', while Entity 2 is a generic term 'Company', which does not specify a particular organization.
+2025-11-27 17:46:36,811 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:36,816 [INFO] kg-app - LLM match decision: False -> Entity 1 has a specific name 'Kryptos Technologies' while Entity 2 is a generic term 'Company', they do not refer to the same specific real-world concept.
+2025-11-27 17:46:37,038 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:37,042 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions, with no apparent connection between Kryptos Technologies and Termination & Separation policies.
+2025-11-27 17:46:37,367 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:37,368 [INFO] kg-app - LLM match decision: False -> The names and descriptions of the entities are too vague and generic to match, and do not provide enough context to confirm they refer to the same real-world concept.
+2025-11-27 17:46:37,600 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:37,604 [INFO] kg-app - LLM match decision: False -> The names and descriptions of the two entities are too vague and generic to be considered the same, and there is no clear indication that they refer to the same organization.
+2025-11-27 17:46:37,905 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:37,909 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions, indicating they refer to distinct concepts.
+2025-11-27 17:46:38,115 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:38,118 [INFO] kg-app - LLM match decision: False -> The names and descriptions of the entities are not identical, indicating they likely refer to different organizations or concepts.
+2025-11-27 17:46:38,367 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:38,368 [INFO] kg-app - LLM match decision: False -> The names and descriptions of the two entities are too vague and dissimilar to confidently conclude they refer to the same real-world concept.
+2025-11-27 17:46:38,823 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:38,825 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions, indicating they refer to different concepts. Entity 1 is specifically about managing vendors, while Entity 2 is more general and related to handling grievances.
+2025-11-27 17:46:39,037 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:39,039 [INFO] kg-app - LLM match decision: False -> The entities have different names and descriptions, indicating they refer to distinct concepts: Vendor Management vs Termination & Separation.
+2025-11-27 17:46:39,371 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 17:46:39,372 [INFO] kg-app - LLM match decision: False -> Entity 1 refers to organizations providing services and products for a cabling system, while Entity 2 refers to an organization with certain policies in place, indicating different concepts.
+2025-11-27 17:46:39,376 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,376 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,376 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,377 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,377 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,377 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,377 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,378 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,378 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,378 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,379 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,379 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,379 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,379 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,380 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,380 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,381 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,381 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,382 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,382 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,383 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,383 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 17:46:39,383 [INFO] kg-app - Reached max_pairs limit (2000)
+2025-11-27 18:17:45,818 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 18:17:55,651 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 18:18:31,306 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 18:27:13,404 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 18:27:43,313 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:27:44,901 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:28:07,466 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:28:08,081 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:28:20,941 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:28:21,571 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:30:29,562 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:30:30,294 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:33:07,713 [INFO] kg-app - PDF uploaded and saved to: storage/uploads\0702302d-8e2e-45f8-be55-021448bdf8d4_company_policy_detailed.pdf
+2025-11-27 18:33:07,951 [INFO] kg-app - Total chunks: 2
+2025-11-27 18:33:07,952 [INFO] kg-app - Processing chunk 1/2
+2025-11-27 18:33:07,954 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 18:33:13,515 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:33:13,520 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 18:33:13,521 [INFO] kg-app - Processing chunk 2/2
+2025-11-27 18:33:13,522 [INFO] kg-app - Sending chunk to Groq...
+2025-11-27 18:33:17,555 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:33:17,562 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-11-27 18:33:18,449 [INFO] kg-app - Entity ID Deduplication Map: {'E1': 'E1_2', 'E2': 'E2_2', 'E3': 'E3_2', 'E4': 'E4_2', 'E5': 'E5_2', 'E6': 'E6_2', 'E7': 'E7_2', 'E8': 'E8_1', 'E9': 'E9_1', 'E10': 'E10_1'}
+2025-11-27 18:33:26,560 [INFO] kg-app - Saved 17 entities & 16 relationships
+2025-11-27 18:35:20,706 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:35:21,333 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:36:00,274 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 18:36:01,229 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:04:51,708 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 20:12:29,817 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 20:18:53,303 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 20:19:38,103 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:19:38,317 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:19:38,447 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:19:38,567 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:19:38,698 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:19:39,174 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:23:03,173 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:23:03,275 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:23:04,864 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:23:05,266 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:23:05,501 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:23:06,539 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:55:01,924 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-11-27 20:55:19,680 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:55:21,818 [INFO] kg-app - Keywords extracted: what company benefits
+2025-11-27 20:55:23,295 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 20:55:23,301 [INFO] kg-app - Answer generated (attempt 1): The provided evidence does not explicitly list the company benefits. However, it mentions that an em...
+2025-11-27 20:58:55,825 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:04:12,747 [INFO] kg-app - Keywords extracted: who sathya
+2025-11-27 21:04:15,944 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:04:15,951 [INFO] kg-app - Answer generated (attempt 1): I don't have enough information about that....
+2025-11-27 21:04:36,361 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:04:36,381 [INFO] kg-app - Verdict: retry
+2025-11-27 21:04:38,297 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:04:38,303 [INFO] kg-app - Answer generated (attempt 2): I don't have enough information about that....
+2025-11-27 21:04:38,576 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:04:38,580 [INFO] kg-app - Verdict: retry
+2025-11-27 21:05:19,404 [INFO] kg-app - Keywords extracted: what leave policy
+2025-11-27 21:05:21,425 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:05:21,431 [INFO] kg-app - Answer generated (attempt 1): I don't have enough information about that....
+2025-11-27 21:05:21,555 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:05:21,561 [INFO] kg-app - Verdict: retry
+2025-11-27 21:05:21,718 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:05:21,725 [INFO] kg-app - Answer generated (attempt 2): I don't have enough information about that....
+2025-11-27 21:05:21,911 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 21:05:21,918 [INFO] kg-app - Verdict: retry
+2025-12-01 14:22:59,025 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-12-01 14:23:03,994 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE FULLTEXT INDEX entity_search IF NOT EXISTS FOR (e:Entity) ON EACH [e.name, e.description, e.source_text]` has no effect.} {description: `FULLTEXT INDEX entity_search FOR (e:Entity) ON EACH [e.name, e.description, e.source_text]` already exists.} {position: None} for query: '\n                CREATE FULLTEXT INDEX entity_search IF NOT EXISTS\n                FOR (e:Entity)\n                ON EACH [e.name, e.description, e.source_text]\n            '
+2025-12-01 14:23:04,164 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX entity_name IF NOT EXISTS FOR (e:Entity) ON (e.name)` has no effect.} {description: `RANGE INDEX entity_name FOR (e:Entity) ON (e.name)` already exists.} {position: None} for query: '\n                CREATE INDEX entity_name IF NOT EXISTS\n                FOR (e:Entity) ON (e.name)\n            '
+2025-12-01 14:23:04,331 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX entity_type IF NOT EXISTS FOR (e:Entity) ON (e.type)` has no effect.} {description: `RANGE INDEX entity_type FOR (e:Entity) ON (e.type)` already exists.} {position: None} for query: '\n                CREATE INDEX entity_type IF NOT EXISTS\n                FOR (e:Entity) ON (e.type)\n            '
+2025-12-01 14:23:04,503 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX entity_uid IF NOT EXISTS FOR (e:Entity) ON (e.uid)` has no effect.} {description: `RANGE INDEX entity_uid FOR (e:Entity) ON (e.uid)` already exists.} {position: None} for query: '\n                CREATE INDEX entity_uid IF NOT EXISTS\n                FOR (e:Entity) ON (e.uid)\n            '
+2025-12-01 14:23:04,672 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX document_pdf_id IF NOT EXISTS FOR (e:Document) ON (e.pdf_id)` has no effect.} {description: `RANGE INDEX document_pdf_id FOR (e:Document) ON (e.pdf_id)` already exists.} {position: None} for query: '\n                CREATE INDEX document_pdf_id IF NOT EXISTS\n                FOR (d:Document) ON (d.pdf_id)\n            '
+2025-12-01 14:24:13,990 [INFO] kg-app - Found 9 entity clusters
+2025-12-01 14:24:23,002 [INFO] kg-app - Found 9 entity clusters
+2025-12-01 14:24:28,513 [ERROR] kg-app - Neo4j read query failed: {code: Neo.ClientError.Statement.SyntaxError} {message: Type mismatch: expected Relationship but was List<Relationship> (line 4, column 20 (offset: 130))
+"          AND type(r) <> 'FROM_DOCUMENT'"
+                    ^}
+2025-12-01 14:24:28,513 [ERROR] kg-app - Query: 
+        MATCH path = (start:Entity)-[r*1..2]-(connected:Entity)
+        WHERE start.name CONTAINS $start_name
+          AND type(r) <> 'FROM_DOCUMENT'
+        WITH start, connected, path,
+             [rel IN relationships(path) | type(rel)] AS rel_types,
+             length(path) AS hops
+        RETURN DISTINCT 
+               connected.uid AS uid,
+               connected.name AS name,
+               connected.type AS type,
+               connected.description AS description,
+               hops,
+               rel_types
+        ORDER BY hops, name
+        LIMIT 100
+        
+2025-12-01 14:24:28,514 [ERROR] kg-app - Params: {'start_name': 'policy'}
+2025-12-01 14:24:33,785 [INFO] kg-app - Analyzing 50 entities...
+2025-12-01 14:24:33,820 [INFO] kg-app - Found 2 potential duplicates from 122 pairs
+2025-12-01 14:26:39,411 [INFO] numexpr.utils - NumExpr defaulting to 8 threads.
+2025-12-01 14:26:40,878 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE FULLTEXT INDEX entity_search IF NOT EXISTS FOR (e:Entity) ON EACH [e.name, e.description, e.source_text]` has no effect.} {description: `FULLTEXT INDEX entity_search FOR (e:Entity) ON EACH [e.name, e.description, e.source_text]` already exists.} {position: None} for query: '\n                CREATE FULLTEXT INDEX entity_search IF NOT EXISTS\n                FOR (e:Entity)\n                ON EACH [e.name, e.description, e.source_text]\n            '
+2025-12-01 14:26:41,053 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX entity_name IF NOT EXISTS FOR (e:Entity) ON (e.name)` has no effect.} {description: `RANGE INDEX entity_name FOR (e:Entity) ON (e.name)` already exists.} {position: None} for query: '\n                CREATE INDEX entity_name IF NOT EXISTS\n                FOR (e:Entity) ON (e.name)\n            '
+2025-12-01 14:26:41,223 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX entity_type IF NOT EXISTS FOR (e:Entity) ON (e.type)` has no effect.} {description: `RANGE INDEX entity_type FOR (e:Entity) ON (e.type)` already exists.} {position: None} for query: '\n                CREATE INDEX entity_type IF NOT EXISTS\n                FOR (e:Entity) ON (e.type)\n            '
+2025-12-01 14:26:41,392 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX entity_uid IF NOT EXISTS FOR (e:Entity) ON (e.uid)` has no effect.} {description: `RANGE INDEX entity_uid FOR (e:Entity) ON (e.uid)` already exists.} {position: None} for query: '\n                CREATE INDEX entity_uid IF NOT EXISTS\n                FOR (e:Entity) ON (e.uid)\n            '
+2025-12-01 14:26:41,570 [INFO] neo4j.notifications - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE RANGE INDEX document_pdf_id IF NOT EXISTS FOR (e:Document) ON (e.pdf_id)` has no effect.} {description: `RANGE INDEX document_pdf_id FOR (e:Document) ON (e.pdf_id)` already exists.} {position: None} for query: '\n                CREATE INDEX document_pdf_id IF NOT EXISTS\n                FOR (d:Document) ON (d.pdf_id)\n            '
+2025-12-01 14:27:34,588 [INFO] kg-app - PDF uploaded and saved to: storage/uploads\42f5d8c7-30eb-42f2-ab4c-76fa0ff6fed8_company_policy_detailed_improved.pdf
+2025-12-01 14:27:34,727 [INFO] kg-app - Total chunks: 2
+2025-12-01 14:27:34,728 [INFO] kg-app - Processing chunk 1/2
+2025-12-01 14:27:34,729 [INFO] kg-app - Sending chunk to Groq...
+2025-12-01 14:27:37,926 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 14:27:37,964 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-12-01 14:27:37,965 [INFO] kg-app - Processing chunk 2/2
+2025-12-01 14:27:37,965 [INFO] kg-app - Sending chunk to Groq...
+2025-12-01 14:27:40,603 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 14:27:40,605 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-12-01 14:27:40,848 [INFO] kg-app - Entity ID Deduplication Map: {'E1': 'E1_2', 'E2': 'E2_2', 'E3': 'E3_2', 'E4': 'E4_2', 'E5': 'E5_2', 'E6': 'E6_2'}
+2025-12-01 14:27:47,655 [INFO] kg-app - Saved 12 entities & 10 relationships
+2025-12-01 14:28:40,754 [INFO] kg-app - PDF uploaded and saved to: storage/uploads\aa9d46fa-69c7-4c93-8d98-27fecefba1c7_company_policy_detailed.pdf
+2025-12-01 14:28:40,906 [INFO] kg-app - Total chunks: 2
+2025-12-01 14:28:40,906 [INFO] kg-app - Processing chunk 1/2
+2025-12-01 14:28:40,907 [INFO] kg-app - Sending chunk to Groq...
+2025-12-01 14:28:46,652 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 14:28:46,656 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-12-01 14:28:46,656 [INFO] kg-app - Processing chunk 2/2
+2025-12-01 14:28:46,657 [INFO] kg-app - Sending chunk to Groq...
+2025-12-01 14:28:50,853 [INFO] httpx - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-01 14:28:50,855 [WARNING] kg-app - Direct JSON parse failed; trying to extract JSON substring
+2025-12-01 14:28:51,086 [INFO] kg-app - Entity ID Deduplication Map: {'E1': 'E1_2', 'E2': 'E2_2', 'E3': 'E3_2', 'E4': 'E4_2', 'E5': 'E5_2', 'E6': 'E6_2', 'E7': 'E7_2', 'E8': 'E8_1', 'E9': 'E9_1', 'E10': 'E10_1'}
+2025-12-01 14:29:01,183 [INFO] kg-app - Saved 17 entities & 17 relationships
